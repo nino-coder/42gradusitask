@@ -1,0 +1,61 @@
+
+.MainContainerAbout{
+    display:grid;
+    grid-template-columns:1fr 2fr 2fr;
+}
+.projects{
+    text-align:center;
+}
+.projects h2{
+    padding-right:5%;
+}
+.About p{
+    color:#808080;
+}
+.SearchByCategory{
+    background-color: #fff;
+    border-color: purple;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    border-top-left-radius: 25%;
+    border-top-right-radius: 25%;
+    /* background: #B9DFFF; */
+   color:purple;
+    /* border: 1px solid #eee; */
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #eee;
+    text-shadow: none;
+    font-size:12px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:20%;
+    margin-top: 5%;
+}
+.OnGoingProjects{
+    background-color: #ffffff;
+    border-color: red;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    border-top-left-radius: 25%;
+    border-top-right-radius: 25%;
+    /* background: #B9DFFF; */
+   color:red;
+    /* border: 1px solid #eee; */
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #eee;
+    text-shadow: none;
+    font-size:12px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:20%;
+    margin-top: 5%;
+    margin-left:5%;
+}
+.TwoButton{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 5%;
+
+}

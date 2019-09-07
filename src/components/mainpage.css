@@ -1,0 +1,22 @@
+.MainContainer{
+    display: grid;
+    grid-template-rows: 25% 30% 50% 25%;
+    grid-row-gap: 10px;
+}
+.MainContainerFlutter{
+    display:grid;
+
+}
+.MainContainerFlutter button{
+    background-color: #fff;
+    color:rgb(221, 67, 170);
+    border-color:rgb(221, 67, 170);
+    border-radius: 20px;
+    width: 13%;
+    justify-self: flex-end;
+    align-self: flex-start;
+    margin-top: 24px;
+    margin-right: 1%;
+    height: 25%;
+    display: grid;
+}

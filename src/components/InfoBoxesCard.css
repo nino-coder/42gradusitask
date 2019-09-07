@@ -1,0 +1,26 @@
+.OnePerson{
+    padding:35px;
+    background-color: #fff;
+    box-shadow: 7px 15px 15px -3px rgba(10, 22, 70, 0.1), 0 0 1px rgba(10, 22, 70, 0.06);
+}
+.OnePerson img{
+    width: 15%;
+    height: 15%;
+    border-radius: 50%;
+    display: inline-block;
+}
+.OnePerson h5{
+    display: inline-block;
+}
+.OnePerson p{
+    font-size: 12px;
+}
+.OnePerson h3{
+    font-size: 15px;
+}
+.OnePerson button{
+    border: 0;
+    border-radius:20px;
+    width: auto;
+    height: auto;
+}

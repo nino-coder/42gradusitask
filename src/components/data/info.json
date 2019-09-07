@@ -1,0 +1,35 @@
+[
+    {
+        "avatar":"https://previews.123rf.com/images/yupiramos/yupiramos1706/yupiramos170621008/80351977-young-man-avatar-character-vector-illustration-design.jpg",
+        "name":"Nick2322",
+        "title":"ვებ-გვერდის რედიზაინი სადაზღვეო კომპანიისთვის",
+        "description":"ჩვენი მიზანია აღმოვაჩინოთ და დავასაქმოთ რაც შეიძლება მეტი ადამიანი, გავზარდოთ კონკურენცია და მომსახურების ხარისხი",
+        "proffesion":"UI/UX დიზაინერი",
+        "color":"red"
+    },
+    {
+        "avatar":"https://avatoon.net/wp-content/uploads/2019/05/Szilagyi-Zoltan-Avatar-Small-300x300.jpg",
+        "name":"Giorgi2232dj",
+        "title":"30წამიანი ანიმაცია სადაზღვეო კომპანიის FB-გვერდისთვის",
+        "description":"ჩვენი მიზანია აღმოვაჩინოთ და დავასაქმმოთ რაც შეიძლება მეტი ადამიანი, გავზარდოთ კონკურენცია და მომსახურების ხარისხი",
+        "proffesion":"ანიმატორი",
+        "color":"pink"
+    },
+    {
+        "avatar":"https://previews.123rf.com/images/yupiramos/yupiramos1606/yupiramos160611261/58637085-cartoon-avatar-man-with-brown-hair-wearing-eyeglasses-front-view-over-isolated-background-vector-ill.jpg",
+        "name":"David33423d",
+        "title":"ენერგეტიკული სასმელის 3დ მოდელი 4 ვარიანტში",
+        "description":"ჩვენი მიზანია აღმოვაჩინოთ და დავასაქმოთ რაც შეიძლება მეტი ადამიანი, გავზარდოთ კონკურენცია და მომსახურების ხარისხი",
+        "proffesion":"3D მოდელერი",
+        "color":"yellow"
+    },
+    {
+        "avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2GO8k5dC4NAWZH32RBiUpn8LjUPTFcOT7x4P7cp9PU_gARCa4vg",
+        "name":"Natiagvaramia24",
+        "title":"COPY ვებ-გვერდისთვის 20 ქოფი ათ აბზაციანი",
+        "description":"ჩვენი მიზანია აღმოვაჩინოთ და დავასაქმოთ რაც შეიძლება მეტი ადამიანი, გავზარდოთ კონკურენცია და მომსახურების ხარისხი",
+        "proffesion":"რედაქტორი",
+        "color":"lightblue"
+    }
+   
+]
