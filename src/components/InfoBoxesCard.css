@@ -1,5 +1,4 @@
 .OnePerson{
-    padding:35px;
     background-color: #fff;
     box-shadow: 7px 15px 15px -3px rgba(10, 22, 70, 0.1), 0 0 1px rgba(10, 22, 70, 0.06);
 }
@@ -14,13 +13,20 @@
 }
 .OnePerson p{
     font-size: 12px;
+    padding-left: 15px;
+    padding-right:10px;
+
 }
 .OnePerson h3{
     font-size: 15px;
+    font-family: 'BPG Nino Mtavruli', sans-serif;
+    padding-left: 15px;
+    padding-right:10px;
 }
 .OnePerson button{
     border: 0;
     border-radius:20px;
     width: auto;
     height: auto;
+    margin-left: 15px;
 }

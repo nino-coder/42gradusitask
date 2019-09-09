@@ -4,14 +4,16 @@ import './fonts.css';
 import Header from './Header';
 import About from './About';
 import InfoBoxes from './InfoBoxes';
+import { withTranslation, Trans } from 'react-i18next';
 class MainPage extends Component{
-    constructor(props){
-        super(props);
-        this.state={
-
-        }
-    }
+  
+  
     render(){
+        const { t, i18n } = this.props;
+   
+        const changeLanguage = (lng) => {
+          i18n.changeLanguage(lng);
+        }
         return(
          
             <div className="MainContainer">
@@ -19,10 +21,10 @@ class MainPage extends Component{
                   <About/>
                   <InfoBoxes/>
                 <div className="MainContainerFlutter">
-                    <button>პროექტების არქივი</button>
+                    <button><Trans>პროექტების არქივი</Trans></button>
                 </div> 
             </div> 
         );
     }
 }
-export default MainPage;
+export default withTranslation('translations') (MainPage);

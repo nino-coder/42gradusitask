@@ -1,10 +1,11 @@
 .MainContainer{
     display: grid;
-    grid-template-rows: 25% 30% 50% 25%;
+    grid-template-rows: 25% 40% 50% 25%;
     grid-row-gap: 10px;
 }
 .MainContainerFlutter{
     display:grid;
+    padding-right:75px;
 
 }
 .MainContainerFlutter button{
@@ -12,11 +13,48 @@
     color:rgb(221, 67, 170);
     border-color:rgb(221, 67, 170);
     border-radius: 20px;
-    width: 13%;
+    width: 15%;
     justify-self: flex-end;
     align-self: flex-start;
     margin-top: 24px;
     margin-right: 1%;
-    height: 25%;
+    height: 30%;
     display: grid;
+}
+.Background{
+    position: relative;
+}
+.MediumCircle{
+    position: absolute;
+    padding-left: 60%;
+    padding-top: 4%;
+    opacity: 0.7;
+    width: 4%;
+}
+.BigCircle{
+    position: absolute;
+    padding-left: 97%;
+    padding-top: 3%;
+    opacity:0.7;
+}
+.BlueMediumCircle{
+    position: absolute;
+    margin-left: -8%;
+    padding-top: 13%;
+    opacity:0.7;
+}
+.BlueSmallCircle{
+    position: absolute;
+    width: 3%;
+    padding-top: 44%;
+    padding-left: 4%;
+    opacity: 0.7;
+}
+.PinkSmallCircle{
+    position: absolute;
+    opacity: 0.7;
+    padding-left: 58%;
+    width: 3%;
+    padding-top: 45%;
+
 }
