@@ -9,11 +9,7 @@ class MainPage extends Component{
   
   
     render(){
-        const { t, i18n } = this.props;
    
-        const changeLanguage = (lng) => {
-          i18n.changeLanguage(lng);
-        }
         return(
          
             <div className="MainContainer">

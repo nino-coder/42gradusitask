@@ -5,7 +5,7 @@ class Header extends Component{
    
        
     render(){
-        const { t, i18n } = this.props;
+        const { i18n } = this.props;
    
         const changeLanguage = (lng) => {
           i18n.changeLanguage(lng);

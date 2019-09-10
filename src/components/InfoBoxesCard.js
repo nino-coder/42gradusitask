@@ -1,16 +1,11 @@
 import React,{Component} from 'react';
 import './InfoBoxesCard.css'
-import { withTranslation, Trans } from 'react-i18next';
+import { withTranslation } from 'react-i18next';
 
  class InfoBoxesCard extends Component{
    
      render(){
       
-        const { t, i18n } = this.props;
-   
-        const changeLanguage = (lng) => {
-          i18n.changeLanguage(lng);
-        }
          return(
              <div className="OnePerson">
                 <img src={this.props.avatar}></img>

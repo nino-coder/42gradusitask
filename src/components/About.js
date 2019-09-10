@@ -4,11 +4,8 @@ import { withTranslation, Trans } from 'react-i18next';
 
 class About extends Component{
 render(){
-    const { t, i18n } = this.props;
+    const { t, } = this.props;
    
-    const changeLanguage = (lng) => {
-      i18n.changeLanguage(lng);
-    }
     return(
         <div className="MainContainerAbout">
         <div className="projects">
