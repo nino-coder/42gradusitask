@@ -13,7 +13,7 @@
     font-size:136px;
     color:grey;
     position:absolute;
-    opacity:0.2;
+    opacity:0.1;
     margin-left:-4.5%;
     margin-top:-5.5%;
     font-family: 'BPG Nino Mtavruli', sans-serif;
@@ -73,4 +73,10 @@
 }
 .TwoButton button{
     font-family: 'BPG Nino Mtavruli', sans-serif;
+}
+.Nodes{
+    position: absolute;
+    padding-left: 67%;
+    margin-top: -3%;
+
 }

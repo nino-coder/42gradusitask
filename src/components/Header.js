@@ -10,10 +10,11 @@ class Header extends Component{
         const changeLanguage = (lng) => {
           i18n.changeLanguage(lng);
         }
+       
         return(
             <div className="MainContainerHeader">
-                <div>
-                    
+                 <div style={{'position':'relative'}}>
+             <img className="NodesImage" src={require('../assets/nodes.png')}/>
                 </div>
                 <div className="Buttons">
                 <button className="SelectLanguage" 

@@ -5,7 +5,7 @@
         "title":"ვებ-გვერდის რედიზაინი სადაზღვეო კომპანიისთვის",
         "description":"ჩვენი მიზანია აღმოვაჩინოთ და დავასაქმოთ რაც შეიძლება მეტი ადამიანი, გავზარდოთ კონკურენცია და მომსახურების ხარისხი",
         "proffesion":"UI/UX დიზაინერი",
-        "color":"red"
+        "color":"#ac0015"
     },
     {
         "avatar":"https://avatoon.net/wp-content/uploads/2019/05/Szilagyi-Zoltan-Avatar-Small-300x300.jpg",
@@ -13,7 +13,7 @@
         "title":"30წამიანი ანიმაცია სადაზღვეო კომპანიის FB-გვერდისთვის",
         "description":"ჩვენი მიზანია აღმოვაჩინოთ და დავასაქმოთ რაც შეიძლება მეტი ადამიანი, გავზარდოთ კონკურენცია და მომსახურების ხარისხი",
         "proffesion":"ანიმატორი",
-        "color":"pink"
+        "color":"#de00c1"
     },
     {
         "avatar":"https://previews.123rf.com/images/yupiramos/yupiramos1606/yupiramos160611261/58637085-cartoon-avatar-man-with-brown-hair-wearing-eyeglasses-front-view-over-isolated-background-vector-ill.jpg",
@@ -21,7 +21,7 @@
         "title":"ენერგეტიკული სასმელის 3დ მოდელი 4 ვარიანტში",
         "description":"ჩვენი მიზანია აღმოვაჩინოთ და დავასაქმოთ რაც შეიძლება მეტი ადამიანი, გავზარდოთ კონკურენცია და მომსახურების ხარისხი",
         "proffesion":"3D მოდელერი",
-        "color":"yellow"
+        "color":"#dccc09"
     },
     {
         "avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2GO8k5dC4NAWZH32RBiUpn8LjUPTFcOT7x4P7cp9PU_gARCa4vg",
@@ -29,7 +29,7 @@
         "title":"COPY ვებ-გვერდისთვის 20 ქოფი ათ აბზაციანი",
         "description":"ჩვენი მიზანია აღმოვაჩინოთ და დავასაქმოთ რაც შეიძლება მეტი ადამიანი, გავზარდოთ კონკურენცია და მომსახურების ხარისხი",
         "proffesion":"რედაქტორი",
-        "color":"lightblue"
+        "color":"#4896ec"
     }
    
 ]

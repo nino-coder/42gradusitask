@@ -13,6 +13,7 @@ class InfoBoxes extends Component{
                         description={prop.description}
                         title={prop.title}
                         proffesion={prop.proffesion}
+                        color={prop.color}
                         />
                         ))}
             </div>    

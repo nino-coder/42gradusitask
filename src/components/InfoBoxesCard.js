@@ -16,9 +16,9 @@ import { tsConstructorType } from '@babel/types';
              <div className="OnePerson">
                 <img src={this.props.avatar}></img>
                 <h5>{this.props.name}</h5>
-                <Trans>  <h3>{this.props.title}</h3></Trans>
-                <Trans> <p>{this.props.description}</p></Trans>
-                <Trans>  <button>{this.props.proffesion}</button></Trans>
+                <h3>{this.props.title}</h3>
+                <p>{this.props.description}</p>
+                <button style={{'background-color':this.props.color}}>{this.props.proffesion}</button>
              </div>
          );
      }

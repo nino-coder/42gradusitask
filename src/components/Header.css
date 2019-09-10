@@ -23,7 +23,15 @@
 
 .SelectLanguage:hover{
     background-color: #0000ff;
+    color:#fff;
 }
+
 .MyProfile{
     font-family: 'BPG Nino Mtavruli', sans-serif;
+    color:#fff;
+}
+.NodesImage{
+    position: absolute;
+    padding-left: 4%;
+    padding-top: 4%;
 }
