@@ -13,7 +13,7 @@ i18n
             "ძიება კატეგორიების მიხედვით":"ძიება კატეგორიების მიხედვით",
             "მიმდინარე პროექტები":"მიმდინარე პროექტები",
             "ჩემი პროფილი":"ჩემი პროფილი",
-            "ჩვენი მიზანია აღმოვაჩინოთ და დავასაქმოთ რაც შეიძლება მეტი ადამიანი, გაზარდოთ კონკურენცია და მომსახურების ხარისხი, გავხადოთ ქართული ბაზარი მრავალფეროვანი და დავნერგოთ მისთვის ახალი ურთიერთობის ფორმა":"ჩვენი მიზანია აღმოვაჩინოთ და დავასაქმოთ რაც შეიძლება მეტი ადამიანი, გაზარდოთ კონკურენცია და მომსახურების ხარისხი, გავხადოთ ქართული ბაზარი მრავალფეროვანი და დავნერგოთ მისთვის ახალი ურთიერთობის ფორმა",
+           
 
         }
       },
@@ -21,8 +21,7 @@ i18n
           translations:{
             "პროექტები":"projects",
             "პროექტების არქივი":"project archive",
-            "ჩვენი მიზანია აღმოვაჩინოთ და დავასაქმოთ რაც შეიძლება მეტი ადამიანი, გაზარდოთ კონკურენცია და მომსახურების ხარისხი, გავხადოთ ქართული ბაზარი მრავალფეროვანი და დავნერგოთ მისთვის ახალი ურთიერთობის ფორმა.": "Our goal is to identify and employ as many people as possible, to increase competition and quality of service, to make the Georgian market diverse and to introduce new relationships.",
-           "ჩვენი მიზანია აღმოვაჩინოთ და დავასაქმოთ რაც შეიძლება მეტი ადამიანი, გაზარდოთ კონკურენცია და მომსახურების ხარისხი, გავხადოთ ქართული ბაზარი მრავალფეროვანი და დავნერგოთ მისთვის ახალი ურთიერთობის ფორმა":"Our goal is to find and employ as many people as possible, to increase competition and quality of service, to make the Georgian market diverse and to introduce a new relationship to it.",
+            "ჩვენი მიზანია აღმოვაჩინოთ და დავასაქმოთ რაც შეიძლება მეტი ადამიანი, გაზარდოთ კონკურენცია და მომსახურების ხარისხი, გავხადოთ ქართული ბაზარი მრავალფეროვანი და დავნერგოთ მისთვის ახალი ურთიერთობის ფორმა.": "Our aim is to discover and employ as many people as possible,  increase competition and service quality,  make georgian market diverse and to implement a new means of communication.",
             "ძიება კატეგორიების მიხედვით":"search by category",
             "მიმდინარე პროექტები":"ongoing projects",
             "ჩემი პროფილი":"my profile",

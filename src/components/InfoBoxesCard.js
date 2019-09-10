@@ -1,7 +1,6 @@
 import React,{Component} from 'react';
 import './InfoBoxesCard.css'
 import { withTranslation, Trans } from 'react-i18next';
-import { tsConstructorType } from '@babel/types';
 
  class InfoBoxesCard extends Component{
    
