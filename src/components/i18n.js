@@ -21,9 +21,9 @@ i18n
           translations:{
             "პროექტები":"projects",
             "პროექტების არქივი":"project archive",
-            "ჩვენი მიზანია აღმოვაჩინოთ და დავასაქმოთ რაც შეიძლება მეტი ადამიანი, გაზარდოთ კონკურენცია და მომსახურების ხარისხი, გავხადოთ ქართული ბაზარი მრავალფეროვანი და დავნერგოთ მისთვის ახალი ურთიერთობის ფორმა.": "Our aim is to discover and employ as many people as possible,  increase competition and service quality,  make georgian market diverse and to implement a new means of communication.",
+            "ჩვენი მიზანია აღმოვაჩინოთ და დავასაქმოთ რაც შეიძლება მეტი ადამიანი, გაზარდოთ კონკურენცია და მომსახურების ხარისხი, გავხადოთ ქართული ბაზარი მრავალფეროვანი და დავნერგოთ მისთვის ახალი ურთიერთობის ფორმა.": "Our aim is to discover and employ as many people as possible,to increase competition and service quality, to make georgian market diverse and to implement a new means of communication.",
             "ძიება კატეგორიების მიხედვით":"search by category",
-            "მიმდინარე პროექტები":"ongoing projects",
+            "მიმდინარე პროექტები":"current projects",
             "ჩემი პროფილი":"my profile",
         }
       }
